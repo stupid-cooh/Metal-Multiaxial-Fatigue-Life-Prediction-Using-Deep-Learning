@@ -21,3 +21,13 @@ After downloading from Materials Cloud, replace the file paths in the code with 
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/yourusername/yourrepository}}
 }
+## Citation
+If you use this code, please cite the repository as follows:
+@misc{your_code_reference,
+author = {Your Name},
+title = {Metal Multiaxial Fatigue Life Prediction Using Deep Learning},
+year = {2024},
+publisher = {GitHub},
+journal = {GitHub repository},
+howpublished = {\url{https://github.com/yourusername/yourrepository}}
+}
