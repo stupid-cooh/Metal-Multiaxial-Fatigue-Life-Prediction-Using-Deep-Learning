@@ -3,7 +3,7 @@ This repository contains code for predicting multiaxial fatigue life of metals u
 
 Chen, S., Bai, Y., Zhou, X. & Yang, A. A Deep Learning Dataset for Metal Multiaxial Fatigue Life Prediction. Scientific Data. (Submitting)
 # Dataset
-The dataset "A deep learning dataset for metal multiaxial fatigue life prediction" used in this project is publicly available on Materials Cloud ([https://doi.org/10.24435/materialscloud:wt-9822.]) and includes detailed information on various metallic materials and their corresponding loading paths. The dataset comprises two folders containing stress-controlled and strain-controlled CSV files, respectively, as well as a summary CSV file and an Excel file with specific information about the materials.
+The dataset "A deep learning dataset for metal multiaxial fatigue life prediction" used in this project is publicly available on Materials Cloud (Shuonan Chen, Yongtao Bai*, Xuhong Zhou*, Ao Yang, A deep learning dataset for metal multiaxial fatigue life prediction, Materials Cloud Archive 2024.105 (2024), https://doi.org/10.24435/materialscloud:wt-98) and includes detailed information on various metallic materials and their corresponding loading paths. The dataset comprises two folders containing stress-controlled and strain-controlled CSV files, respectively, as well as a summary CSV file and an Excel file with specific information about the materials.
 # Models
 The following models are implemented and included in this repository:
 
