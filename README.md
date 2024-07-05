@@ -13,4 +13,4 @@ GRU: An alternative to LSTM, offering similar capabilities with a different arch
 Fully Connected Layers: Combine the outputs from the above models to predict fatigue life.
 
 # Usage: 
-After downloading from Materials Cloud, replace the file paths in the code with the correct locations. The code can then be run directly. Note that you will need to manually install any packages not already installed during the import step.
+All three files are text files and can be opened and edited using Jupyter or similar editing software. After downloading from Materials Cloud, replace the file paths in the code with the correct locations. The code can then be run directly. Note that you will need to manually install any packages not already installed during the import step.
