@@ -14,3 +14,15 @@ Fully Connected Layers: Combine the outputs from the above models to predict fat
 
 # Usage: 
 All three files are text files and can be opened and edited using Jupyter or similar editing software. After downloading from Materials Cloud, replace the file paths in the code with the correct locations. The code can then be run directly. Note that you will need to manually install any packages not already installed during the import step.
+
+# Performence:
+![image](https://github.com/stupid-cooh/Metal-Multiaxial-Fatigue-Life-Prediction-Using-Deep-Learning/blob/main/images/CNN-fig-train.png)
+![image](https://github.com/stupid-cooh/Metal-Multiaxial-Fatigue-Life-Prediction-Using-Deep-Learning/blob/main/images/CNN-fig-test.png)
+![image](https://github.com/stupid-cooh/Metal-Multiaxial-Fatigue-Life-Prediction-Using-Deep-Learning/blob/main/images/GRU-fig-training.png)
+![image](https://github.com/stupid-cooh/Metal-Multiaxial-Fatigue-Life-Prediction-Using-Deep-Learning/blob/main/images/GRU-fig-test.png)
+![image](https://github.com/stupid-cooh/Metal-Multiaxial-Fatigue-Life-Prediction-Using-Deep-Learning/blob/main/images/LSTM-fig-training.png)
+![image](https://github.com/stupid-cooh/Metal-Multiaxial-Fatigue-Life-Prediction-Using-Deep-Learning/blob/main/images/LSTM-fig-test.png)
+![image](https://github.com/stupid-cooh/Metal-Multiaxial-Fatigue-Life-Prediction-Using-Deep-Learning/blob/main/images/SVM_TRain.jpg)
+![image](https://github.com/stupid-cooh/Metal-Multiaxial-Fatigue-Life-Prediction-Using-Deep-Learning/blob/main/images/SVM_Test.jpg)
+![image](https://github.com/stupid-cooh/Metal-Multiaxial-Fatigue-Life-Prediction-Using-Deep-Learning/blob/main/images/RF_Train.jpg)
+![image](https://github.com/stupid-cooh/Metal-Multiaxial-Fatigue-Life-Prediction-Using-Deep-Learning/blob/main/images/RF_Test.jpg)
